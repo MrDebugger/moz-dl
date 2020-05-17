@@ -1,2 +1,2 @@
-# moze-dl
+# moz-dl
  Downloader for MOZ Academy
